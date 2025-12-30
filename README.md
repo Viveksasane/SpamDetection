@@ -24,18 +24,18 @@ This project is a **Spam Detection system** that classifies messages (emails or 
 
 ## Project Structure
 
-** Spam_Detection/ **
-** │ **
-** ├── Data/ **                                         # Dataset and notebooks
-** │ └── spam.csv **
-** ├── src/ **                                         # Source code
-** │ ├── components/ **                                 # Modular functions
-** │ ├── Pipeline/ **                                 # ML pipeline scripts
-** │ ├── logger.py **                                  # Logging utility
-** │ └── exception.py **                               # Custom exceptions
-** ├── app.py  **                                      # Main web application
-** ├── requirements.txt  **                            # Python dependencies
-** ├── setup.py   **                                   # Package setup
-** └── README.md  **                                   # Project documentation
+Spam_Detection/
+│ 
+├── Data/                                          # Dataset and notebooks
+│ └── spam.csv
+├── src/                                         # Source code
+│ ├── components/                                 # Modular functions
+│ ├── Pipeline/                                 # ML pipeline scripts
+│ ├── logger.py                                   # Logging utility
+│ └── exception.py                               # Custom exceptions
+├── app.py                                       # Main web application
+├── requirements.txt                           # Python dependencies
+├── setup.py                                     # Package setup
+└── README.md                                     # Project documentation
 
 
